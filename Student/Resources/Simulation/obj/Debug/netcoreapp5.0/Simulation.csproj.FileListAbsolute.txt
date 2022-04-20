@@ -1,0 +1,16 @@
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\bin\Debug\netcoreapp5.0\Simulation.exe
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\bin\Debug\netcoreapp5.0\Simulation.deps.json
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\bin\Debug\netcoreapp5.0\Simulation.runtimeconfig.json
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\bin\Debug\netcoreapp5.0\Simulation.runtimeconfig.dev.json
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\bin\Debug\netcoreapp5.0\Simulation.dll
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\bin\Debug\netcoreapp5.0\Simulation.pdb
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\obj\Debug\netcoreapp5.0\Simulation.csproj.AssemblyReference.cache
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\obj\Debug\netcoreapp5.0\Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\obj\Debug\netcoreapp5.0\Simulation.AssemblyInfoInputs.cache
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\obj\Debug\netcoreapp5.0\Simulation.AssemblyInfo.cs
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\obj\Debug\netcoreapp5.0\Simulation.csproj.CoreCompileInputs.cache
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\obj\Debug\netcoreapp5.0\Simulation.dll
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\obj\Debug\netcoreapp5.0\ref\Simulation.dll
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\obj\Debug\netcoreapp5.0\Simulation.pdb
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\obj\Debug\netcoreapp5.0\Simulation.genruntimeconfig.cache
+C:\_vetCode\Hackathons\dapr-hack-wth\WhatTheHack\047-TrafficControlWithDapr\Student\Resources\Simulation\obj\Debug\netcoreapp5.0\refint\Simulation.dll
